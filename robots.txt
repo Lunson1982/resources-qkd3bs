@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Lunson1982.github.io/resources-qkd3bs/sitemap.xml
